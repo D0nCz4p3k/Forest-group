@@ -24,7 +24,7 @@ Contributions to the Green Forest website are welcome! If you have any suggestio
 1. Fork the repository on GitHub: https://github.com/D0nCz4p3k
 2. Make your desired changes or additions.
 3. Submit a pull request explaining your changes and why they would be valuable.
-4. The Green Forest team will review your contributions and merge them if appropriate.
+4. I will review your contributions and merge them if appropriate.
 
 # License
 The Green Forest website is licensed under the MIT License. This means that you are free to modify, distribute, and use the code and content of this website for personal or commercial purposes. However, please refer to the license file for more details and to ensure compliance with the terms.
