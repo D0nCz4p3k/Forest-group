@@ -7,11 +7,11 @@ The website is called "Green Forest" and it aims to provide users with informati
 # Features
 The Green Forest website offers several features and functionalities:
 
-**Homepage**: The homepage provides an overview of the website's purpose and highlights key areas of interest.
+* **Homepage**: The homepage provides an overview of the website's purpose and highlights key areas of interest.
 
-**Interactive Maps**: The website includes interactive maps that showcase various environmental initiatives, such as national parks, wildlife sanctuaries, and conservation projects. Users can explore these maps to discover and learn about different locations and their importance in conservation efforts.
+* **Interactive Maps**: The website includes interactive maps that showcase various environmental initiatives, such as national parks, wildlife sanctuaries, and conservation projects. Users can explore these maps to discover and learn about different locations and their importance in conservation efforts.
 
-**Contact**: Users can easily get in touch with the Green Forest team through the website's contact page. They can provide feedback, ask questions, or seek support regarding the website or its content.
+* **Contact**: Users can easily get in touch with the Green Forest team through the website's contact page. They can provide feedback, ask questions, or seek support regarding the website or its content.
 
 # Getting Started
 To access the Green Forest website, simply visit https://647651397120ef055b968665--green-forest.netlify.app/ using a web browser.
